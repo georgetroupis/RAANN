@@ -1,4 +1,6 @@
 """
+Created by George Troupis (2019) for the University of Melbourne subject Real and Artifical Neural Networks.
+
 This program defines a neural network and then runs that neural network, according to assigned parameters.
 The neural network is trained on the mnist data set, which consists of 60,000
 handwritten numbers depicted as an array of 28x28 pixels and then tested through 
